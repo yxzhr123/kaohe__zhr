@@ -13,17 +13,15 @@
 
 ## 下载
 
-| 内容 | 位置 | 大小 |
-|---|---|---|
-| 数据集（2800 张 + 标签） | [Release 附件 dataset.zip](https://github.com/yxzhr123/kaohe__zhr/releases/download/v1.0/dataset.zip) | 524 MB |
-| 25/25 实跑录屏 | [Release 附件 demo.mp4](https://github.com/yxzhr123/kaohe__zhr/releases/download/v1.0/puzzle_demo_25of25.mp4) | 102 MB |
-
-数据集解压后放到仓库根目录的 dataset/ 下即可用 dataset/data.yaml 训练。
+| 内容 | 位置 |
+|---|---|
+| 代码 / 权重 / 数据集 | 直接在本仓库内 |
+| 25/25 实跑录屏 | [Release v1.0 附件](https://github.com/yxzhr123/kaohe__zhr/releases/tag/v1.0)（102 MB） |
 
 ## 演示
 
 录屏里一局完整流程：照片 20 格（约 72 秒，几乎全部一次到位）→ 白块 5 格（约 42 秒）
-→ 25/25，步数 35，用时 2 分 15 秒。
+→ 25/25，步数 35，用时约 2 分 15 秒。
 
 ## 仓库结构
 

@@ -1,0 +1,5 @@
+﻿path: .
+train: images/train
+val: images/val
+nc: 15
+names: ['dog', 'cat', 'elephant', 'desktop_computer', 'bicycle', 'car', 'chair', 'cup', 'airplane', 'backpack', 'umbrella', 'suitcase', 'penguin', 'tafei', 'nailong']
